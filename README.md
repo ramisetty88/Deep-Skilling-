@@ -66,6 +66,6 @@ Each topic folder may contain:
 
 Author
 
-Kattamuri Sanjana Priya Darshini
+Ramisetty Naga Ramya
 B.Tech CSE
 Vignan University
