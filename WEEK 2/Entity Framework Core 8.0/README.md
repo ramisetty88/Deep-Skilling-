@@ -26,4 +26,4 @@ Requires SQL Server LocalDB (or update the connection string in `Program.cs` to 
 - Project 3 (`EFCore.LoadingAndPerformance`) enables `UseLazyLoadingProxies()` and uses `virtual` navigation properties so all three loading strategies can be compared side by side, plus demonstrates `RowVersion` optimistic concurrency and `ExecuteUpdateAsync` batch updates (EF Core 8 feature).
 
 ## Author
-Kakumanu Venkata Sadwik — B.Tech CSE, VFSTR
+Ramisetty Naga Ramya — B.Tech CSE, VFSTR
